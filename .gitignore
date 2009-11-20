@@ -1,0 +1,3 @@
+*.swp
+src/javagems/example/*.class
+test/javagems/example/*.class
